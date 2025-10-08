@@ -29,8 +29,11 @@ uv sync
 * 印出變項的值 - 標籤
 * Matplot 範例
 
-變項說明圖片示例：
+**變項說明圖片示例：**
 ![Print Column Labels](./asset/column%20label.png)
 
-變項的值-標籤圖片示例：
+**變項的值-標籤圖片示例：**
 ![Print Variable Value Labels](./asset/variable%20value%20label.png)
+
+**範例視覺化（寂寞和收入的關係）：**
+![Example Output PNG](./asset/example%20output.png)
